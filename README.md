@@ -45,27 +45,6 @@ There are two main modes:
 - **Mode 1: supervised training/evaluation**
 - **Mode 2: inference on a new raw video**
 
-## Important Clarification
-
-The current action-recognition model in this repo is **supervised**, not unsupervised.
-
-That means:
-
-- it uses manually labeled tennis actions from the Excel annotation file
-- it learns from labeled pose windows
-- it predicts tennis action classes on new pose sequences
-
-## What This Repo Does Not Claim
-
-This project works in the image plane and with body-normalized pose features. It does **not** claim:
-
-- real racket speed in meters/second
-- real ball speed in meters/second
-- real-world player displacement in meters
-- camera-calibrated biomechanics
-
-The motion features produced here are **relative motion proxies**, not absolute physical measurements.
-
 ## Repository Structure
 
 ```text
