@@ -493,21 +493,6 @@ Useful details from the official Ultralytics docs:
 - YOLO11 pose checkpoints use the `-pose` suffix, such as `yolo11x-pose.pt`.
 - Ultralytics pose models are trained on COCO keypoints and use the standard 17-keypoint human layout.
 
-If you want to cite the Ultralytics YOLO11 software in academic or technical work, the Ultralytics docs provide a software citation format. A practical citation block is:
-
-```bibtex
-@software{yolo11_ultralytics,
-  author = {Glenn Jocher and Jing Qiu},
-  title = {Ultralytics YOLO11},
-  version = {11.0.0},
-  year = {2024},
-  url = {https://github.com/ultralytics/ultralytics},
-  license = {AGPL-3.0}
-}
-```
-
-Please also cite this repository if you reuse the tennis-specific pipeline design, dataset preparation logic, or visualization workflow.
-
 ## Summary
 
 If you are a new user, the shortest practical path is:
