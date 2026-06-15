@@ -5,7 +5,7 @@ This repository is a complete tennis-video analysis pipeline for:
 - player selection and tracking
 - 2D human pose extraction
 - supervised tennis action recognition
-- motion-proxy analysis from pose
+- motion analysis from pose
 - explained visualization videos for qualitative review
 
 The current project is focused on tennis actions such as:
