@@ -232,12 +232,6 @@ For supervised training, the pipeline expects an Excel file with annotated actio
 Tennise_dataset_GT.xlsx
 ```
 
-In the original workflow for this project:
-
-- videos `1, 4, 6` were used for training
-- videos `2, 5` were used for testing
-- uncertain labels such as `D`, `DS`, and doubtful notes were excluded from clean training labels
-
 ## How Frame Labels Are Built
 
 For supervised action recognition, each annotated contact/proxy frame is expanded into a fixed window.
