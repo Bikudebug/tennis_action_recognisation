@@ -1,0 +1,114 @@
+{
+  "video": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/videos/tennis_video_1.MOV",
+  "model": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/yolo11x-pose.pt",
+  "target_person_id": "largest",
+  "select_frame": 1,
+  "fps": 30.0,
+  "width": 2160,
+  "height": 3840,
+  "frame_count": 1555,
+  "pose_rows": 1555,
+  "frames_before_selection": 0,
+  "frames_with_no_detection_after_selection": 0,
+  "csv_path": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/pose/tennis_video_1_tracked_pose_keypoints.csv",
+  "annotated_video_path": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/pose/tennis_video_1_tracked_pose.mp4",
+  "h264_video_path": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/pose/tennis_video_1_tracked_pose_h264.mp4",
+  "selected_detection": {
+    "det_person_id": 0,
+    "person_conf": 0.9315029382705688,
+    "bbox": [
+      1133.647216796875,
+      1461.4375,
+      1487.0440673828125,
+      2655.0517578125
+    ],
+    "keypoints": [
+      [
+        1220.6927490234375,
+        1586.95654296875,
+        0.989546000957489
+      ],
+      [
+        1245.80615234375,
+        1570.58642578125,
+        0.9938841462135315
+      ],
+      [
+        1223.6195068359375,
+        1564.75927734375,
+        0.7138160467147827
+      ],
+      [
+        1314.705322265625,
+        1593.7672119140625,
+        0.993893027305603
+      ],
+      [
+        1242.8038330078125,
+        1581.05615234375,
+        0.06101115420460701
+      ],
+      [
+        1400.1480712890625,
+        1717.3736572265625,
+        0.9982396364212036
+      ],
+      [
+        1199.4727783203125,
+        1708.628662109375,
+        0.996000349521637
+      ],
+      [
+        1452.6002197265625,
+        1883.9549560546875,
+        0.9941030144691467
+      ],
+      [
+        1162.36474609375,
+        1863.347900390625,
+        0.9859419465065002
+      ],
+      [
+        1323.7686767578125,
+        1903.380126953125,
+        0.9937008619308472
+      ],
+      [
+        1232.9739990234375,
+        1929.8609619140625,
+        0.9873100519180298
+      ],
+      [
+        1374.55126953125,
+        2044.27392578125,
+        0.9995177984237671
+      ],
+      [
+        1239.37841796875,
+        2044.2890625,
+        0.9994205236434937
+      ],
+      [
+        1402.38916015625,
+        2287.99169921875,
+        0.9983757734298706
+      ],
+      [
+        1263.2965087890625,
+        2300.83984375,
+        0.9980954527854919
+      ],
+      [
+        1429.69482421875,
+        2523.58154296875,
+        0.9803314805030823
+      ],
+      [
+        1301.854248046875,
+        2530.40283203125,
+        0.9813535213470459
+      ]
+    ],
+    "area": 421819.51952540874
+  }
+}

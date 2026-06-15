@@ -1,0 +1,14 @@
+{
+  "pose_csv": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/pose/tennis_video_1_tracked_pose_keypoints.csv",
+  "annotations_csv": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/action_predictions/predicted_action_segments.csv",
+  "video_name": "tennis_video_1",
+  "source_video": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/videos/tennis_video_1.MOV",
+  "fps": 30.0,
+  "num_pose_frames": 1555,
+  "frame_features_csv": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/motion_analysis/frame_motion_features.csv",
+  "num_action_windows": 15,
+  "action_features_csv": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/motion_analysis/action_window_features.csv",
+  "action_features_json": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/motion_analysis/action_window_features.json",
+  "handedness_assumption": "right",
+  "valid_measurement_note": "Speeds and distances are image-plane/body-normalized proxies, not real-world m/s or meters."
+}

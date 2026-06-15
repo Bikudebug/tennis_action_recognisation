@@ -1,0 +1,13 @@
+{
+  "video": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/videos/tennis_video_1.MOV",
+  "pose_csv": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/outputs/inference/tennis_video_1/pose/tennis_video_1_tracked_pose_keypoints.csv",
+  "checkpoint_dir": "/media/cv/HDD/Throwing_Dataset/Tennis_Internship/Final_pipeline/checkpoints/action_recognition/current",
+  "model_name": "random_forest",
+  "frame_count": 1555,
+  "num_predicted_segments": 15,
+  "predicted_labels": {
+    "neutral": 1045,
+    "backhand": 414,
+    "forehand": 96
+  }
+}

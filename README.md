@@ -428,6 +428,22 @@ Inside that folder you will typically get:
 - `motion_analysis_summary.json`
 - explained motion video
 
+## Bundled Demo Outputs
+
+This repo also includes a compact example output package here:
+
+- [demo_outputs](demo_outputs)
+
+It contains shareable outputs from `tennis_video_1`, including:
+
+- compressed action-recognition video
+- compressed explained-motion video
+- tracked pose CSV
+- prediction CSV/JSON
+- motion-analysis CSV/JSON
+
+The large raw intermediate outputs are still excluded from git to keep the repository usable.
+
 ## Current Saved Checkpoints
 
 Saved checkpoints are included in:
