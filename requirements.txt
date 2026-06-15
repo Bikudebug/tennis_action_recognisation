@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+ultralytics
+scikit-learn
+torch
+matplotlib
+openpyxl
+joblib
+

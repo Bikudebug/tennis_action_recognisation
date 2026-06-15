@@ -1,0 +1,8 @@
+{
+  "best_model": "random_forest",
+  "test_label_distribution": {
+    "neutral": 8766,
+    "serve": 217,
+    "forehand": 248
+  }
+}
